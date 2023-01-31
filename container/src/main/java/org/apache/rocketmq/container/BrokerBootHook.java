@@ -23,7 +23,7 @@ import org.apache.rocketmq.broker.BrokerController;
 public interface BrokerBootHook {
     /**
      * Name of the hook.
-     *
+     * aiwyefgi9w34yhgf7h34g
      * @return name of the hook
      */
     String hookName();
